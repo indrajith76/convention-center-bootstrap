@@ -3,9 +3,21 @@ body {
     margin: 0 auto;
 }
 
+.carousel-caption h1 {
+    font-size: 4.5em;
+}
+
+.moment .card {
+    margin-bottom: 2em;
+    margin-top: 4em;
+}
+
+.toast {
+    width: 300px;
+}
 
 .package > h1 {
-    margin-bottom: 80px;
+    margin-bottom: 2em;
 }
 
 .package-card {
@@ -52,17 +64,31 @@ body {
 
 
 .client {
-    padding: 50px 0 50px 0;
+    padding: 1em 0 2em 0;
+    margin-bottom: 2em;
 }
 
 .client h1{
-    margin-bottom: 80px;
+    margin-top: 1em;
+    margin-bottom: 2em;
 }
 
 .clients-card {
-    box-shadow: 1px 10px 15px rgb(160, 160, 160);
+    box-shadow: 1px 8px 20px rgb(160, 160, 160);
 }
 
 .clients .row {
     gap: 10px !important;
+}
+
+.question {
+    margin-bottom: 5em;
+}
+.question h1 {
+    margin-bottom: 2em;
+}
+
+footer {
+    height: 280px;
+    color: #ffffff;
 }
