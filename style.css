@@ -4,7 +4,13 @@ body {
 }
 /*------ slider section style ------ */
 .carousel-caption h1 {
-    font-size: 4.5em;
+    font-size: 3rem;
+}
+
+
+.carousel-item img {
+    height: auto;
+    min-height: 500px;
 }
 
 /* -----moment section style----- */
