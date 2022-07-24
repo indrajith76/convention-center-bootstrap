@@ -2,11 +2,12 @@ body {
     max-width: 1350px;
     margin: 0 auto;
 }
-
+/*------ slider section style ------ */
 .carousel-caption h1 {
     font-size: 4.5em;
 }
 
+/* -----moment section style----- */
 .moment .card {
     margin-bottom: 2em;
     margin-top: 4em;
@@ -16,6 +17,7 @@ body {
     width: 300px;
 }
 
+/* -----package section style----- */
 .package > h1 {
     margin-bottom: 2em;
 }
@@ -62,7 +64,7 @@ body {
     margin-bottom: 20px;
 }
 
-
+/* -----client section style----- */
 .client {
     padding: 1em 0 2em 0;
     margin-bottom: 2em;
@@ -81,6 +83,8 @@ body {
     gap: 10px !important;
 }
 
+/* -----question section style------ */
+
 .question {
     margin-bottom: 5em;
 }
@@ -88,6 +92,7 @@ body {
     margin-bottom: 2em;
 }
 
+/* footer section style----- */
 footer {
     height: 280px;
     color: #ffffff;
