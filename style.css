@@ -2,15 +2,25 @@ body {
     max-width: 1350px;
     margin: 0 auto;
 }
+/* ----Navber section style */
+.navber {
+    height: 50px;
+    background: #ffffff;
+}
+
 /*------ slider section style ------ */
+.top-banner {
+    margin-top: 88px;
+}
+
 .carousel-caption h1 {
-    font-size: 3rem;
+    font-size: 2em;
 }
 
 
 .carousel-item img {
-    height: auto;
-    min-height: 500px;
+    object-fit: cover;
+    min-height: 60vh;
 }
 
 /* -----moment section style----- */
